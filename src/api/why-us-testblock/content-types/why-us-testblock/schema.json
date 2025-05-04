@@ -1,0 +1,27 @@
+{
+  "kind": "singleType",
+  "collectionName": "why_us_testblocks",
+  "info": {
+    "singularName": "why-us-testblock",
+    "pluralName": "why-us-testblocks",
+    "displayName": "Why Us (testblock)",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "attributes": {
+    "Title": {
+      "type": "string"
+    },
+    "Subtitle": {
+      "type": "text"
+    },
+    "firstTabTitle": {
+      "type": "string"
+    },
+    "fristTabText": {
+      "type": "string"
+    }
+  }
+}
